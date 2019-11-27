@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##启动node后台
+## 启动node后台
 shop_node_server npm run start
-##启动android模拟器
+## 启动android模拟器
 f5 在模拟器调试
